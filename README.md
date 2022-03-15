@@ -12,8 +12,8 @@
 
 
 ## :sassy_man:  About me
-- :computer: I am a Software Engineer at `Bank of America Continuum India`
-- :school: I am an `Alumnus` of National Institute of Technology, Karnataka 
+- :computer: Software Engineer at `Bank of America Continuum India`
+- :school: `Alumnus` of National Institute of Technology, Karnataka 
 - :trophy: `Founder` of previously NITK STEP incubated Start up Shopscape.in
 - :technologist: Programming Enthusiast who loves solving problems using Data Structures and Algorithms
 - :student: Bachelor of Technology, Information Technology and Engineering
@@ -103,7 +103,7 @@
   &emsp;
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Geekf For Geeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white"></a>
+    <a href="#"><img alt="Geeks For Geeks" src="https://img.shields.io/badge/geeksforgeeks-%230F9D58.svg?style=plastic&logo=geeksforgeeks&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white"></a>
   &emsp;
@@ -118,7 +118,7 @@
   &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="JetBrain" src="https://img.shields.io/badge/jetbrains-%23000000.svg?style=plastic&logo=jetbrains&logoColor=white" /></a>
+    <a href="#"><img alt="PyCharm" src="https://img.shields.io/badge/pycharm-%23000000.svg?style=plastic&logo=pycharm&logoColor=white" /></a>
   &emsp;
     <a href="#"><img alt="Atom" src="https://img.shields.io/badge/atom-%2366595C.svg?&style=plastic&logo=atom&logoColor=white" /></a>
   &emsp;
